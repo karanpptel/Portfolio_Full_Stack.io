@@ -20,7 +20,7 @@ const achievements = [
   {
     icon: <Award className="text-green-500" size={24} />,
     title: "Postman API testing Student Expert Program",
-    description: "Successfully delivered projects for clients worldwide"
+    description: "Completed the POSTMAN API Fundamentals Student Expert Program, gaining hands-on skills in API development and testing. Proficient in making GET, POST, PATCH, and DELETE requests, managing query parameters, headers, and response codes, and implementing API Key Authorization. Experienced in basic scripting and integrating APIs into applications for seamless functionality."
   }
 ];
 
